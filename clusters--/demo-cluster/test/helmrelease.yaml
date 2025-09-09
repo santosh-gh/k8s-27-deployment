@@ -1,0 +1,15 @@
+apiVersion: helm.toolkit.fluxcd.io/v2beta1
+kind: HelmRelease
+metadata:
+  name: online-store-test
+  namespace: test
+spec:
+  interval: 1m
+  releaseName: online-store-test
+  chart:
+    spec:
+      chart: ./environments/test/
+      sourceRef:
+        kind: GitRepository
+        name: flux-system
+        namespace: flux-system

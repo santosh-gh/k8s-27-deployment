@@ -1,0 +1,11 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+metadata:
+  name: online-store
+namespace: dev
+resources:
+  - ../../multi-helmchart/config/base/
+  - ../../multi-helmchart/rabbitmq/overlays/dev/
+  - ../../multi-helmchart/order/overlays/dev/
+  - ../../multi-helmchart/product/overlays/dev/
+  - ../../multi-helmchart/store-front/overlays/dev/
