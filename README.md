@@ -214,6 +214,29 @@
     GitHub:  https://github.com/santosh-gh/k8s-24-deployment.git
     YouTube: https://studio.youtube.com/video/hdxo5uw35vs/edit
 
+    Part25: GitOps using Flux (Microservice deployment using Flux, Helm Chart)             
+             Single Helm Chart with multiple Microservices
+
+    GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
+    GitHub:  https://github.com/santosh-gh/k8s-25-deployment.git
+    YouTube: https://www.youtube.com/watch?v=rouNQMR-4P8&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=25  
+
+    Part26: GitOps using Flux (Microservice deployment using Flux, Helm Chart)             
+            Helm Chart with multiple Microservices
+            Deploy into multiple environments dev, test and prod
+
+    GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
+    GitHub:  https://github.com/santosh-gh/k8s-26-deployment.git
+    YouTube: https://www.youtube.com/watch?v=NpS63UEO3Bg&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=26 
+
+    Part27: GitOps using Flux (Microservice + Flux + Helm Chart + Kustomize)             
+            Helm Chart with multiple Microservices
+            Deploy into multiple environments dev, test and prod
+
+    GitHub:  https://github.com/santosh-gh/k8s-21-development.git     
+    GitHub:  https://github.com/santosh-gh/k8s-26-deployment.git
+    YouTube: https://www.youtube.com/watch?v=NpS63UEO3Bg&list=PLr6ErUeFySVug9VG73_W2MypRez_ZycWh&index=26 
+
 # Architesture
 
 ![Store Architesture](aks-store-architecture.png)
