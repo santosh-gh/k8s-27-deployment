@@ -1,4 +1,4 @@
-# Part 24: Deploying microservice applications in kubernetes multiple enverinments using FluxCD and Kustomize
+# Part 27: Deploying microservice applications in kubernetes multiple enverinments using FluxCD and Kustomize
 
     Part1:   Manual Deployment (AzCLI + Docker Desktop + kubectl)  
     GitHub:  https://github.com/santosh-gh/k8s-01
